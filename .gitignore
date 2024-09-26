@@ -1,0 +1,30 @@
+# Ignorer les répertoires système et fichiers personnels de Windows
+AppData/
+Application Data/
+Cookies/
+Local Settings/
+Menu Démarrer/
+Mes documents/
+Modèles/
+Recent/
+SendTo/
+Voisinage d'impression/
+Voisinage réseau/
+NTUSER.DAT*
+*.ini
+*.LOG1
+*.LOG2
+*.blf
+*.regtrans-ms
+Bibliothèque calibre/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Music/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+OneDrive/
